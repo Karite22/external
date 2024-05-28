@@ -1,0 +1,15 @@
+/* Class Component Specific Styles */
+.class-component {
+    color: #1a73e8;
+  }
+  
+  .class-component h2 {
+    font-size: 1.8em;
+    margin-bottom: 10px;
+  }
+  
+  .class-component p {
+    font-size: 1.2em;
+    margin: 5px 0;
+  }
+  

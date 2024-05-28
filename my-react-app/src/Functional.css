@@ -1,0 +1,15 @@
+/* Functional Component Specific Styles */
+.functional-component {
+    color: #34a853;
+  }
+  
+  .functional-component h2 {
+    font-size: 1.8em;
+    margin-bottom: 10px;
+  }
+  
+  .functional-component p {
+    font-size: 1.2em;
+    margin: 5px 0;
+  }
+  
